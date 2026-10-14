@@ -1,3 +1,5 @@
 .csv
-/bayesian_turner
+/bayesian_tuner
 /Random_Search
+/random_hyperparameter_tuning
+.json
